@@ -38,7 +38,7 @@ with st.expander("Read Executive Summary"):
     This analysis covers sales from January 1, 2024, to August 19, 2024. 
     The marketplace sells across Electronics, Home Appliances, Clothing, Books, 
     Beauty, and Sports. Operating in North America, Europe, and Asia, 
-    most customers pay via Credit Card, PayPal, or Debit Card. 
+    customers pay via Credit Card, PayPal, or Debit Card. 
     """)
 
 # KPI Metrics

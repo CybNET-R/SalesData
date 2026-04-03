@@ -6,6 +6,7 @@ import plotly.express as px
 st.set_page_config(page_title="Retail Insights 2024", layout="wide")
 
 # 2. Load and Prepare Data
+# Link to the dataset : https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data?resource=download
 @st.cache_data
 def load_data():
     df = pd.read_csv("Online Sales Data.csv")
